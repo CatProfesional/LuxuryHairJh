@@ -1,5 +1,5 @@
 
-const WHATSAPP_NUMBER = "529983666675";
+const WHATSAPP_NUMBER = "529983424615";
 const FALLBACK_IMAGE = "placeholder.svg";
 const products = [
     {

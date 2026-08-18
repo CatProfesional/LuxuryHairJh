@@ -9,13 +9,15 @@ Esta versión incluye:
 - Una sola tarjeta de Crema de Peinar con selector de 11 aromas.
 - Selectores de presentación para productos de 1 L y 500 ml.
 - Mensaje de WhatsApp actualizado con el aroma o presentación elegida.
-- Número de WhatsApp: 52 998 366 6675.
+- Número de WhatsApp: 52 998 342 4615.
 
 La animación de entrada se dejó pendiente para la etapa final, tal como se acordó.
 
 
 ## Actualización de catálogo
 - WhatsApp: 998 342 4615 (enlace interno con código de país 52).
+- Instagram: https://www.instagram.com/luxuryhair_mid?igsh=ejdlbXdoYWRyYmt3&igsi=ejdlbXdoYWRyYmt3
+- Facebook: https://www.facebook.com/share/1K87dpoHJR/?mibextid=wwXIfr
 - Nueva categoría: Alisado progresivo.
 - Nueva categoría: Alaciado permanente.
 - Nueva categoría: Reparadores.
