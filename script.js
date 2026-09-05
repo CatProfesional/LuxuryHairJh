@@ -13,16 +13,12 @@ const products = [
         "description": "Finalizador profesional que ayuda a controlar el frizz, aportar brillo y proteger la fibra capilar.",
         "prices": [
             {
-                "label": "1 pieza",
-                "value": "$300"
+                "label": "Precio normal",
+                "value": "$280"
             },
             {
-                "label": "Desde 2 piezas",
-                "value": "$250 c/u"
-            },
-            {
-                "label": "Desde 4 piezas",
-                "value": "$230 c/u"
+                "label": "Mayoreo (4+ piezas)",
+                "value": "$200"
             }
         ],
         "benefits": [
@@ -49,16 +45,16 @@ const products = [
         "description": "Crema de uso diario para hidratar, facilitar el peinado y ayudar a reducir el frizz, con aromas variados.",
         "prices": [
             {
-                "label": "1 crema",
-                "value": "$300"
+                "label": "Precio normal",
+                "value": "$280"
             },
             {
                 "label": "Media docena",
-                "value": "$700"
+                "value": "$600"
             },
             {
-                "label": "1 docena",
-                "value": "$1,200"
+                "label": "Docena",
+                "value": "$1,100"
             }
         ],
         "benefits": [
@@ -158,15 +154,15 @@ const products = [
         "prices": [
             {
                 "label": "1 crema",
-                "value": "$300"
+                "value": "$280"
             },
             {
                 "label": "Media docena",
-                "value": "$850"
+                "value": "$700"
             },
             {
                 "label": "1 docena",
-                "value": "$1,350"
+                "value": "$1,200"
             }
         ],
         "benefits": [
@@ -197,12 +193,8 @@ const products = [
                 "value": "$680"
             },
             {
-                "label": "Mayoreo 2-3 kits",
-                "value": "$600 c/u"
-            },
-            {
-                "label": "Mayoreo 4+ kits",
-                "value": "$420 c/u"
+                "label": "Mayoreo (4+ kits)",
+                "value": "$380"
             }
         ],
         "benefits": [
@@ -234,12 +226,8 @@ const products = [
                 "value": "$680"
             },
             {
-                "label": "Mayoreo 2-3 kits",
-                "value": "$600 c/u"
-            },
-            {
-                "label": "Mayoreo 4+ kits",
-                "value": "$420 c/u"
+                "label": "Mayoreo (4+ kits)",
+                "value": "$380"
             }
         ],
         "benefits": [
@@ -272,11 +260,11 @@ const products = [
             },
             {
                 "label": "3 kits",
-                "value": "$350 c/u"
+                "value": "$310 c/u"
             },
             {
                 "label": "5 kits",
-                "value": "$330 c/u"
+                "value": "$280 c/u"
             }
         ],
         "benefits": [
@@ -327,11 +315,11 @@ const products = [
             },
             {
                 "label": "3 kits",
-                "value": "$350 c/u"
+                "value": "$310 c/u"
             },
             {
                 "label": "5 kits",
-                "value": "$330 c/u"
+                "value": "$280 c/u"
             }
         ],
         "benefits": [
